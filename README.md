@@ -12,7 +12,7 @@ LICENSE
 -------
 
 PlexC: A policy Language for Exposure Control
-Copyright (C) 2013  Yann G. Le Gall
+Copyright (C) 2014  Yann G. Le Gall
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -35,5 +35,5 @@ AUTHORS
 Yann Le Gall
 
 
-Copyright (C) 2012, 2013
+Copyright (C) 2012, 2013, 2014
 
